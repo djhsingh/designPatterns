@@ -1,4 +1,4 @@
-package strategyDesignPattern2.model;
+package djh.learn.dP.strategyDesignPattern2.model;
 
 public class Product {
     private String upcCode;

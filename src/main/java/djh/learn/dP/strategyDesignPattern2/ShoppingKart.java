@@ -1,6 +1,6 @@
-package strategyDesignPattern2;
+package djh.learn.dP.strategyDesignPattern2;
 
-import strategyDesignPattern2.model.Product;
+import djh.learn.dP.strategyDesignPattern2.model.Product;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package strategyDesignPattern2;
+package djh.learn.dP.strategyDesignPattern2;
 
 public class CreditCardAlgorithm implements Payment{
     private String name;
